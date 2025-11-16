@@ -1,47 +1,75 @@
 ﻿using UnityEngine;
+using TMPro;
+using UnityEngine.SceneManagement;
 
 public class BattleManager : MonoBehaviour
 {
-    [Header("Sprite Renderer")]
-    public SpriteRenderer spriteRenderer;  
+    public Transform dragonSpriteObject;
+    private SpriteRenderer spriteRenderer;
 
-    [Header("Player Sprite")]
-    public Sprite playerSprite;         
+    public Sprite playerSprite;
+    public Sprite[] dragonSprites;
+    public int[] dragonHPValues;
 
-    [Header("Dragon Sprites")]
-    public Sprite[] dragonSprites;          
+    private int currentDragonIndex;
+    private int currentDragonHP;
 
-    private int currentDragonIndex = 0;
+    public float timer = 60f;
+
+    public TMP_Text dragonHPText;
+    public TMP_Text timerText;
+
+    void Awake()
+    {
+        if (dragonSpriteObject == null)
+            dragonSpriteObject = transform.Find("DragonSprite");
+
+        spriteRenderer = dragonSpriteObject.GetComponent<SpriteRenderer>();
+    }
 
     void Start()
     {
-
-        if (dragonSprites.Length > 0)
-        {
-            currentDragonIndex = 0;
-            spriteRenderer.sprite = dragonSprites[currentDragonIndex];
-        }
-        else
-        {
-            Debug.LogError("No dragon sprites assigned!");
-        }
-    }
-
-    public void NextDragon()
-    {
-        if (dragonSprites.Length == 0) return;
-
-        currentDragonIndex++;
-        if (currentDragonIndex >= dragonSprites.Length)
-            currentDragonIndex = 0;
+        currentDragonIndex = Manager.instance.currentDragon;
 
         spriteRenderer.sprite = dragonSprites[currentDragonIndex];
+        currentDragonHP = dragonHPValues[currentDragonIndex];
+
+        UpdateHPUI();
     }
-    public void ShowPlayer()
+
+    void Update()
     {
-        if (playerSprite != null)
-            spriteRenderer.sprite = playerSprite;
-        else
-            Debug.LogError("Player sprite not assigned!");
+        timer -= Time.deltaTime;
+
+        if (timerText != null)
+            timerText.text = Mathf.CeilToInt(timer).ToString();
+
+        if (timer <= 0)
+            LoseBattle();
+    }
+
+    public void DamageDragon(int dmg)
+    {
+        currentDragonHP -= dmg;
+        UpdateHPUI();
+
+        if (currentDragonHP <= 0)
+            WinBattle();
+    }
+
+    private void UpdateHPUI()
+    {
+        if (dragonHPText != null)
+            dragonHPText.text = currentDragonHP.ToString();
+    }
+
+    private void WinBattle()
+    {
+        Manager.instance.WinDragon();
+    }
+
+    private void LoseBattle()
+    {
+        Manager.instance.LoseBattle();
     }
 }

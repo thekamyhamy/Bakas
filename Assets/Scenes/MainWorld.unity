@@ -129,9 +129,9 @@ GameObject:
   m_Component:
   - component: {fileID: 51123489}
   - component: {fileID: 51123488}
+  - component: {fileID: 51123491}
   - component: {fileID: 51123487}
   - component: {fileID: 51123486}
-  - component: {fileID: 51123485}
   - component: {fileID: 51123490}
   m_Layer: 0
   m_Name: Dragonfour
@@ -140,18 +140,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &51123485
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 51123484}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c70c0385688996b47a6b2a2031e349ad, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
 --- !u!61 &51123486
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -196,7 +184,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 3.6, y: 3.25}
+  m_Size: {x: 10, y: 10}
   m_EdgeRadius: 0
 --- !u!50 &51123487
 Rigidbody2D:
@@ -213,7 +201,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -292,7 +280,7 @@ Transform:
   m_GameObject: {fileID: 51123484}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.99461, y: -4.53745, z: -1}
+  m_LocalPosition: {x: 11.7, y: -6.24, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -310,7 +298,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2e61e14c4c7b4c4b92544c41b0f6b60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StartingBattle
-  dragonIndex: 0
+  dragonIndex: 3
+--- !u!114 &51123491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 51123484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5554e45e185b6194797d5da415472905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DragonClick
+  manager: {fileID: 0}
 --- !u!1 &94660011
 GameObject:
   m_ObjectHideFlags: 0
@@ -476,11 +477,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7c3a7e1766479c408859da2fbc005a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  dragonHPValues: 140000001e0000002800000032000000
-  hpText: {fileID: 0}
+  dragonSpriteObject: {fileID: 0}
+  playerSprite: {fileID: 0}
+  dragonSprites: []
+  dragonHPValues: 
+  timer: 60
+  dragonHPText: {fileID: 0}
   timerText: {fileID: 0}
-  dragonImage: {fileID: 0}
-  playerImage: {fileID: 0}
 --- !u!4 &419505633
 Transform:
   m_ObjectHideFlags: 0
@@ -889,8 +892,8 @@ GameObject:
   m_Component:
   - component: {fileID: 775448996}
   - component: {fileID: 775448995}
+  - component: {fileID: 775448998}
   - component: {fileID: 775448994}
-  - component: {fileID: 775448993}
   - component: {fileID: 775448997}
   - component: {fileID: 775448992}
   m_Layer: 0
@@ -958,18 +961,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &775448993
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 775448991}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cccb29bb6351f6343ae0cee01bd2fb43, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
 --- !u!50 &775448994
 Rigidbody2D:
   serializedVersion: 5
@@ -985,7 +976,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -1031,7 +1022,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.09738541, y: -0.21911657}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1041,7 +1032,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 10, y: 10}
   m_EdgeRadius: 0
 --- !u!4 &775448996
 Transform:
@@ -1052,7 +1043,7 @@ Transform:
   m_GameObject: {fileID: 775448991}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.07484, y: -2.74197, z: -1}
+  m_LocalPosition: {x: -13.69, y: 2.84, z: -1}
   m_LocalScale: {x: 0.385095, y: 0.385095, z: 0.77019}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1070,7 +1061,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2e61e14c4c7b4c4b92544c41b0f6b60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StartingBattle
-  dragonIndex: 0
+  dragonIndex: 1
+--- !u!114 &775448998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775448991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5554e45e185b6194797d5da415472905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DragonClick
+  manager: {fileID: 0}
 --- !u!1 &854672433
 GameObject:
   m_ObjectHideFlags: 0
@@ -1241,7 +1245,6 @@ GameObject:
   - component: {fileID: 939305049}
   - component: {fileID: 939305048}
   - component: {fileID: 939305047}
-  - component: {fileID: 939305046}
   - component: {fileID: 939305051}
   m_Layer: 0
   m_Name: Dragonone
@@ -1250,18 +1253,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &939305046
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 939305045}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d18fd139b34f704c9ad1be1e4fc26b8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
 --- !u!212 &939305047
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1335,7 +1326,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -1381,7 +1372,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.06672597, y: -0.057193875}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1391,7 +1382,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 10, y: 10}
   m_EdgeRadius: 0
 --- !u!4 &939305050
 Transform:
@@ -1402,7 +1393,7 @@ Transform:
   m_GameObject: {fileID: 939305045}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.07484, y: 2.74197, z: -1}
+  m_LocalPosition: {x: 12.28, y: 2.78, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1588,7 +1579,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -1797,6 +1788,7 @@ GameObject:
   - component: {fileID: 2089238501}
   - component: {fileID: 2089238500}
   - component: {fileID: 2089238504}
+  - component: {fileID: 2089238505}
   m_Layer: 0
   m_Name: BlackDragon
   m_TagString: Untagged
@@ -1929,7 +1921,7 @@ Transform:
   m_GameObject: {fileID: 2089238499}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.99461, y: -4.53745, z: -1}
+  m_LocalPosition: {x: -13.27, y: -6.55, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1947,7 +1939,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2e61e14c4c7b4c4b92544c41b0f6b60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::StartingBattle
-  dragonIndex: 0
+  dragonIndex: 2
+--- !u!50 &2089238505
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089238499}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
