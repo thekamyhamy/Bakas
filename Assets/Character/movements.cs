@@ -15,11 +15,11 @@ public class movements : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        movementDirection = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")).normalized; // Normalize for consistent speed in all directions
+        movementDirection = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")).normalized; 
     }
 
     void FixedUpdate()
     {
-        rb.linearVelocity = movementDirection * movementSpeed; // Corrected: Use velocity for linear movement
+        rb.linearVelocity = movementDirection * movementSpeed; 
     }
 }

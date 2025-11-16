@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 1cc00b196a45f0c4ebdf4a1b7d54020d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6868361823379507794
+    second: pngtree-pixel-art-crown-png-image_15892128_0
+  - first:
+      213: -549342579234932662
+    second: pngtree-pixel-art-crown-png-image_15892128_1
+  - first:
+      213: 3432298266740085523
+    second: pngtree-pixel-art-crown-png-image_15892128_2
+  - first:
+      213: 2955029555187189520
+    second: pngtree-pixel-art-crown-png-image_15892128_3
+  - first:
+      213: -3745082711243379680
+    second: pngtree-pixel-art-crown-png-image_15892128_4
+  - first:
+      213: -2983819280987285017
+    second: pngtree-pixel-art-crown-png-image_15892128_5
+  - first:
+      213: -4802671852886106478
+    second: pngtree-pixel-art-crown-png-image_15892128_6
+  - first:
+      213: 1033061896395442447
+    second: pngtree-pixel-art-crown-png-image_15892128_7
+  - first:
+      213: -4064841993721245686
+    second: pngtree-pixel-art-crown-png-image_15892128_8
+  - first:
+      213: 576470244631592906
+    second: pngtree-pixel-art-crown-png-image_15892128_9
+  - first:
+      213: -3803382356879354973
+    second: pngtree-pixel-art-crown-png-image_15892128_10
+  - first:
+      213: 8035143398473736001
+    second: pngtree-pixel-art-crown-png-image_15892128_11
+  - first:
+      213: -288947686995875256
+    second: pngtree-pixel-art-crown-png-image_15892128_12
+  - first:
+      213: -5691583291970331671
+    second: pngtree-pixel-art-crown-png-image_15892128_13
+  - first:
+      213: -7809737706174068549
+    second: pngtree-pixel-art-crown-png-image_15892128_14
+  - first:
+      213: 1641748765970454001
+    second: pngtree-pixel-art-crown-png-image_15892128_15
+  - first:
+      213: 2404057060457540770
+    second: pngtree-pixel-art-crown-png-image_15892128_16
+  - first:
+      213: -7420350441944291918
+    second: pngtree-pixel-art-crown-png-image_15892128_17
+  - first:
+      213: -4573941347947124241
+    second: pngtree-pixel-art-crown-png-image_15892128_18
+  - first:
+      213: -3605331099599607669
+    second: pngtree-pixel-art-crown-png-image_15892128_19
+  - first:
+      213: 7714660364179974623
+    second: pngtree-pixel-art-crown-png-image_15892128_20
+  - first:
+      213: 1838743064968567304
+    second: pngtree-pixel-art-crown-png-image_15892128_21
+  - first:
+      213: 3344939715796860129
+    second: pngtree-pixel-art-crown-png-image_15892128_22
+  - first:
+      213: 5436297552430444860
+    second: pngtree-pixel-art-crown-png-image_15892128_23
+  - first:
+      213: -7473314363658147439
+    second: pngtree-pixel-art-crown-png-image_15892128_24
+  - first:
+      213: -3167399908954822765
+    second: pngtree-pixel-art-crown-png-image_15892128_25
+  - first:
+      213: 8027023488794322445
+    second: pngtree-pixel-art-crown-png-image_15892128_26
+  - first:
+      213: -2194421311292640007
+    second: pngtree-pixel-art-crown-png-image_15892128_27
+  - first:
+      213: -3868502957861764883
+    second: pngtree-pixel-art-crown-png-image_15892128_28
+  - first:
+      213: -5584945386253863823
+    second: pngtree-pixel-art-crown-png-image_15892128_29
+  - first:
+      213: 2887122103271009161
+    second: pngtree-pixel-art-crown-png-image_15892128_30
+  - first:
+      213: -6677855672146244981
+    second: pngtree-pixel-art-crown-png-image_15892128_31
+  - first:
+      213: -6524182290208935569
+    second: pngtree-pixel-art-crown-png-image_15892128_32
+  - first:
+      213: -5545536516470645821
+    second: pngtree-pixel-art-crown-png-image_15892128_33
+  - first:
+      213: 3834838014287678390
+    second: pngtree-pixel-art-crown-png-image_15892128_34
+  - first:
+      213: 3683979204529413885
+    second: pngtree-pixel-art-crown-png-image_15892128_35
+  - first:
+      213: -7467822464935375012
+    second: pngtree-pixel-art-crown-png-image_15892128_36
+  - first:
+      213: -5480738293232192891
+    second: pngtree-pixel-art-crown-png-image_15892128_37
+  - first:
+      213: -6888433124161651469
+    second: pngtree-pixel-art-crown-png-image_15892128_38
+  - first:
+      213: -1311908440671357633
+    second: pngtree-pixel-art-crown-png-image_15892128_39
+  - first:
+      213: 3179943867923278562
+    second: pngtree-pixel-art-crown-png-image_15892128_40
+  - first:
+      213: -505781183279461732
+    second: pngtree-pixel-art-crown-png-image_15892128_41
+  - first:
+      213: 7715877820441057299
+    second: pngtree-pixel-art-crown-png-image_15892128_42
+  - first:
+      213: -4295532572156985301
+    second: pngtree-pixel-art-crown-png-image_15892128_43
+  - first:
+      213: 4927104384073661044
+    second: pngtree-pixel-art-crown-png-image_15892128_44
+  - first:
+      213: -9047484353044420579
+    second: pngtree-pixel-art-crown-png-image_15892128_45
+  - first:
+      213: 3555429442299509749
+    second: pngtree-pixel-art-crown-png-image_15892128_46
+  - first:
+      213: 3781782767116467826
+    second: pngtree-pixel-art-crown-png-image_15892128_47
+  - first:
+      213: 1813280131458712270
+    second: pngtree-pixel-art-crown-png-image_15892128_48
+  - first:
+      213: 1397203204651839797
+    second: pngtree-pixel-art-crown-png-image_15892128_49
+  - first:
+      213: -3599064855086224816
+    second: pngtree-pixel-art-crown-png-image_15892128_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2494
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53c90df4daea0a0800000000000000
+      internalID: -6868361823379507794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_1
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4874b0b5d75068f0800000000000000
+      internalID: -549342579234932662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3135b38a619f1af20800000000000000
+      internalID: 3432298266740085523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01786b959bf520920800000000000000
+      internalID: 2955029555187189520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ca1edcd1bc60cc0800000000000000
+      internalID: -3745082711243379680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e99ac24c285796d0800000000000000
+      internalID: -2983819280987285017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ed4fb356b795db0800000000000000
+      internalID: -4802671852886106478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_7
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0944a5425c265e00800000000000000
+      internalID: 1033061896395442447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_8
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0097204eb7c697c0800000000000000
+      internalID: -4064841993721245686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_9
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf39da12a8000800800000000000000
+      internalID: 576470244631592906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_10
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3d739c5eba73bc0800000000000000
+      internalID: -3803382356879354973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_11
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f1a515950928f60800000000000000
+      internalID: 8035143398473736001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_12
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa0fd0c937dfbf0800000000000000
+      internalID: -288947686995875256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_13
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb5f88b62f6301b0800000000000000
+      internalID: -5691583291970331671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8458a1fec3e9390800000000000000
+      internalID: -7809737706174068549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5da16edc9a8c610800000000000000
+      internalID: 1641748765970454001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_16
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac6754c82dec5120800000000000000
+      internalID: 2404057060457540770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_17
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b56ff6769e950990800000000000000
+      internalID: -7420350441944291918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_18
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e32ce3981680c0800000000000000
+      internalID: -4573941347947124241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_19
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8862be777a47fdc0800000000000000
+      internalID: -3605331099599607669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_20
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9abb92abaff0b60800000000000000
+      internalID: 7714660364179974623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_21
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a1aa45317848910800000000000000
+      internalID: 1838743064968567304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecfa2303fc9b6e20800000000000000
+      internalID: 3344939715796860129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_23
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3131f932db917b40800000000000000
+      internalID: 5436297552430444860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_24
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199e45b7e24794890800000000000000
+      internalID: -7473314363658147439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_25
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397a42d70922b04d0800000000000000
+      internalID: -3167399908954822765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_26
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d066d458557b56f60800000000000000
+      internalID: 8027023488794322445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_27
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4fad4a179db81e0800000000000000
+      internalID: -2194421311292640007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_28
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de00a185e01505ac0800000000000000
+      internalID: -3868502957861764883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_29
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174b162f2c94e72b0800000000000000
+      internalID: -5584945386253863823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 111
+        width: 2384
+        height: 2077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba5ac914e111820800000000000000
+      internalID: 2887122103271009161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4560a5ad7353a0800000000000000
+      internalID: -6677855672146244981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_32
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61b33e06c27575a0800000000000000
+      internalID: -6524182290208935569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_33
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb5fc67beb4a03b0800000000000000
+      internalID: -5545536516470645821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_34
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb08cc2bd4183530800000000000000
+      internalID: 3834838014287678390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_35
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed6e5619f102330800000000000000
+      internalID: 3683979204529413885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_36
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f48dbc807fc5890800000000000000
+      internalID: -7467822464935375012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_37
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b30d7f8180f3b0800000000000000
+      internalID: -5480738293232192891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_38
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc7f4fe19e5760a0800000000000000
+      internalID: -6888433124161651469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_39
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3572f7593a2bcde0800000000000000
+      internalID: -1311908440671357633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_40
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaaf3d891e612c20800000000000000
+      internalID: 3179943867923278562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_41
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a0d8c81ba1bf8f0800000000000000
+      internalID: -505781183279461732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31854b94ffd441b60800000000000000
+      internalID: 7715877820441057299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_43
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20867362e33364c0800000000000000
+      internalID: -4295532572156985301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_44
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47afaf71557906440800000000000000
+      internalID: 4927104384073661044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_45
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18e1e1aae0e07280800000000000000
+      internalID: -9047484353044420579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_46
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb3a348d3c675130800000000000000
+      internalID: 3555429442299509749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_47
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ebba3d3679b7430800000000000000
+      internalID: 3781782767116467826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_48
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2ced12ca01a2910800000000000000
+      internalID: 1813280131458712270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_49
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5317f4479ecd36310800000000000000
+      internalID: 1397203204651839797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-crown-png-image_15892128_50
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a2efc359d8d0ec0800000000000000
+      internalID: -3599064855086224816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-pixel-art-crown-png-image_15892128_0: -6868361823379507794
+      pngtree-pixel-art-crown-png-image_15892128_1: -549342579234932662
+      pngtree-pixel-art-crown-png-image_15892128_10: -3803382356879354973
+      pngtree-pixel-art-crown-png-image_15892128_11: 8035143398473736001
+      pngtree-pixel-art-crown-png-image_15892128_12: -288947686995875256
+      pngtree-pixel-art-crown-png-image_15892128_13: -5691583291970331671
+      pngtree-pixel-art-crown-png-image_15892128_14: -7809737706174068549
+      pngtree-pixel-art-crown-png-image_15892128_15: 1641748765970454001
+      pngtree-pixel-art-crown-png-image_15892128_16: 2404057060457540770
+      pngtree-pixel-art-crown-png-image_15892128_17: -7420350441944291918
+      pngtree-pixel-art-crown-png-image_15892128_18: -4573941347947124241
+      pngtree-pixel-art-crown-png-image_15892128_19: -3605331099599607669
+      pngtree-pixel-art-crown-png-image_15892128_2: 3432298266740085523
+      pngtree-pixel-art-crown-png-image_15892128_20: 7714660364179974623
+      pngtree-pixel-art-crown-png-image_15892128_21: 1838743064968567304
+      pngtree-pixel-art-crown-png-image_15892128_22: 3344939715796860129
+      pngtree-pixel-art-crown-png-image_15892128_23: 5436297552430444860
+      pngtree-pixel-art-crown-png-image_15892128_24: -7473314363658147439
+      pngtree-pixel-art-crown-png-image_15892128_25: -3167399908954822765
+      pngtree-pixel-art-crown-png-image_15892128_26: 8027023488794322445
+      pngtree-pixel-art-crown-png-image_15892128_27: -2194421311292640007
+      pngtree-pixel-art-crown-png-image_15892128_28: -3868502957861764883
+      pngtree-pixel-art-crown-png-image_15892128_29: -5584945386253863823
+      pngtree-pixel-art-crown-png-image_15892128_3: 2955029555187189520
+      pngtree-pixel-art-crown-png-image_15892128_30: 2887122103271009161
+      pngtree-pixel-art-crown-png-image_15892128_31: -6677855672146244981
+      pngtree-pixel-art-crown-png-image_15892128_32: -6524182290208935569
+      pngtree-pixel-art-crown-png-image_15892128_33: -5545536516470645821
+      pngtree-pixel-art-crown-png-image_15892128_34: 3834838014287678390
+      pngtree-pixel-art-crown-png-image_15892128_35: 3683979204529413885
+      pngtree-pixel-art-crown-png-image_15892128_36: -7467822464935375012
+      pngtree-pixel-art-crown-png-image_15892128_37: -5480738293232192891
+      pngtree-pixel-art-crown-png-image_15892128_38: -6888433124161651469
+      pngtree-pixel-art-crown-png-image_15892128_39: -1311908440671357633
+      pngtree-pixel-art-crown-png-image_15892128_4: -3745082711243379680
+      pngtree-pixel-art-crown-png-image_15892128_40: 3179943867923278562
+      pngtree-pixel-art-crown-png-image_15892128_41: -505781183279461732
+      pngtree-pixel-art-crown-png-image_15892128_42: 7715877820441057299
+      pngtree-pixel-art-crown-png-image_15892128_43: -4295532572156985301
+      pngtree-pixel-art-crown-png-image_15892128_44: 4927104384073661044
+      pngtree-pixel-art-crown-png-image_15892128_45: -9047484353044420579
+      pngtree-pixel-art-crown-png-image_15892128_46: 3555429442299509749
+      pngtree-pixel-art-crown-png-image_15892128_47: 3781782767116467826
+      pngtree-pixel-art-crown-png-image_15892128_48: 1813280131458712270
+      pngtree-pixel-art-crown-png-image_15892128_49: 1397203204651839797
+      pngtree-pixel-art-crown-png-image_15892128_5: -2983819280987285017
+      pngtree-pixel-art-crown-png-image_15892128_50: -3599064855086224816
+      pngtree-pixel-art-crown-png-image_15892128_6: -4802671852886106478
+      pngtree-pixel-art-crown-png-image_15892128_7: 1033061896395442447
+      pngtree-pixel-art-crown-png-image_15892128_8: -4064841993721245686
+      pngtree-pixel-art-crown-png-image_15892128_9: 576470244631592906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

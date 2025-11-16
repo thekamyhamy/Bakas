@@ -12,15 +12,19 @@ public class BattleManager : MonoBehaviour
     public Text timerText;
     public Image dragonImage;
     public Image playerImage;
-
+    public Sprite[] dragonSprites;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         int dragon = Manager.instance.currentDragon;
-        currentHP=dragonHPValues[dragon];
+        currentHP = dragonHPValues[dragon];
+
         hpText.text = "Hp: " + currentHP;
 
+        // Set battle sprite
+        dragonImage.sprite = dragonSprites[dragon];
     }
+
 
     // Update is called once per frame
     void Update()
