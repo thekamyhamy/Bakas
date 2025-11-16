@@ -1,51 +1,47 @@
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.SceneManagement;
-
+﻿using UnityEngine;
 
 public class BattleManager : MonoBehaviour
 {
-    public int[] dragonHPValues = { 20, 30, 40, 50 };
-    private int currentHP;
-    private float timer = 10f;
-    public Text hpText;
-    public Text timerText;
-    public Image dragonImage;
-    public Image playerImage;
-    public Sprite[] dragonSprites;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [Header("Sprite Renderer")]
+    public SpriteRenderer spriteRenderer;  
+
+    [Header("Player Sprite")]
+    public Sprite playerSprite;         
+
+    [Header("Dragon Sprites")]
+    public Sprite[] dragonSprites;          
+
+    private int currentDragonIndex = 0;
+
     void Start()
     {
-        int dragon = Manager.instance.currentDragon;
-        currentHP = dragonHPValues[dragon];
 
-        hpText.text = "Hp: " + currentHP;
-
-        // Set battle sprite
-        dragonImage.sprite = dragonSprites[dragon];
-    }
-
-
-    // Update is called once per frame
-    void Update()
-    {
-        timer -= Time.deltaTime;
-        timerText.text = "Time: " + Mathf.Ceil(timer);
-        if (timer <= 0)
+        if (dragonSprites.Length > 0)
         {
-            Manager.instance.LoseBattle();
-
+            currentDragonIndex = 0;
+            spriteRenderer.sprite = dragonSprites[currentDragonIndex];
+        }
+        else
+        {
+            Debug.LogError("No dragon sprites assigned!");
         }
     }
 
-    public void OnDragonClick()
+    public void NextDragon()
     {
-        currentHP--;
-        hpText.text = "Hp: " + currentHP;
-        if (currentHP <= 0)
-        {
-            Manager.instance.WinDragon();
+        if (dragonSprites.Length == 0) return;
 
-        }
+        currentDragonIndex++;
+        if (currentDragonIndex >= dragonSprites.Length)
+            currentDragonIndex = 0;
+
+        spriteRenderer.sprite = dragonSprites[currentDragonIndex];
+    }
+    public void ShowPlayer()
+    {
+        if (playerSprite != null)
+            spriteRenderer.sprite = playerSprite;
+        else
+            Debug.LogError("Player sprite not assigned!");
     }
 }

@@ -53,5 +53,4 @@ public class Manager : MonoBehaviour
         SceneManager.LoadScene("LoseScene");
 
     }
-
 }
